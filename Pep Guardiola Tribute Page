@@ -1,0 +1,26 @@
+#image {
+display: block;
+max-width: 100%;
+height: auto;
+}
+
+
+<div id="main">
+  <h1 id="title" > Pep Guardiola </h1>
+</div>
+
+<div id="img-div">
+  <img id="image" src="https://e0.365dm.com/21/11/2048x1152/skysports-man-city-pep-guardiola_5597829.jpg" margin: 0 auto>
+  
+  <div id="img-caption"><p> Currently Manchester City Manager </p>
+  </div>
+</div>
+  
+<div id="tribute-info"><p> Pep Guardiola has had a lot of success throughout his career both as a footballer as well as a manager. Overall he's a great sports personality and an inspiration.</p>
+</div>
+<a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Pep_Guardiola">More About Pep Guardiola</a>
+<div>
+  
+    
+ 
+       
