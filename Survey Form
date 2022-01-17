@@ -34,8 +34,8 @@
      
           </p>
     
-          <label
-            ><input
+          <label>
+          <input
               name="cb"
               value="Rodri"
               type="checkbox"
@@ -48,15 +48,15 @@
               value="KDB"
               type="checkbox"
               class="input-checkbox"
-            />KDB</label
-          >
-          <label
-            ><input
+            />KDB</label>
+          
+          <label>
+            <input
               name="cb"
               value="Bernardo"
               type="checkbox"
               class="input-checkbox"
-            />Bernardo</label
+            />Bernardo</label>
           
           
         </div>
